@@ -1,5 +1,7 @@
 Make sure to install selenium, you can do that by typing ```py -m pip install selenium``` in the terminal.
 
+You will also need chromeWebDriver. You can download your version from here: https://sites.google.com/a/chromium.org/chromedriver/downloads
+
 A very simple bot for https://10fastfingers.com/typing-test/english, if you ALREADY have an account there you can login by typing "y" when asked or if you don't you can 
 skip by typing "n", eveything else is automated.
 
