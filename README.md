@@ -1,6 +1,6 @@
 
 
-Make sure to install selenium, you can do that by typing py -m pip install selenium in the terminal.
+Make sure to install selenium, you can do that by typing ```py -m pip install selenium``` in the terminal.
 
 You will also need chromeWebDriver. You can download your version from here: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
