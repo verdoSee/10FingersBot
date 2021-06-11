@@ -1,7 +1,7 @@
-from selenium.common.exceptions import NoSuchElementException
-from selenium import webdriver
 from time import sleep
+from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import NoSuchElementException
 
 answer = input("Do you want to sign in to 10fingers? [y]/[n]: ")
 if (answer == 'y'):
